@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jeeveshverma.github.io/al-murooj-hotel-apartments/sitemap.xml
