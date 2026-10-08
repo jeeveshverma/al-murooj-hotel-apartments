@@ -86,7 +86,7 @@
  "Al Murooj Hotel Apartments from the street: the white building with its arched windows, the entrance steps and the restaurants at street level under a blue sky": [
   "index.html"
  ],
- "Al Murooj Hotel Apartments is a licensed aparthotel in Azaiba, Muscat: {0} serviced apartments and rooms with kitchens, free parking and Wi-Fi, a {1}-hour front desk, {2} minutes from Muscat International Airport and {3} minutes from Oman Avenues Mall. Book direct on WhatsApp.": [
+ "Al Murooj Hotel Apartments is a licensed aparthotel in Azaiba, Muscat: {0} rooms and serviced apartments with kitchens, free parking and Wi-Fi, a {1}-hour front desk, {2} minutes from Muscat International Airport and {3} minutes from Oman Avenues Mall. Book direct on WhatsApp.": [
   "index.html"
  ],
  "Al Murooj Hotel Apartments | Serviced apartments in Azaiba, Muscat": [
@@ -339,6 +339,12 @@
   "index.html"
  ],
  "Families welcome": [
+  "index.html"
+ ],
+ "Fifty-four rooms and serviced apartments in Azaiba North, ten minutes from Muscat International Airport. Kitchens, free parking, a {0}-hour front desk, and the city within reach.": [
+  "index.html"
+ ],
+ "Fifty-four rooms and serviced apartments on a quiet street in Azaiba. Full kitchens, free parking, a front desk that never closes, and the beach, the malls and the Grand Mosque all a short drive away.": [
   "index.html"
  ],
  "Filter photos": [
@@ -866,12 +872,6 @@
  "The red sign of the grilled-chicken restaurant on the ground floor of the hotel": [
   "index.html"
  ],
- "Thirty serviced apartments and rooms in Azaiba North, ten minutes from Muscat International Airport. Kitchens, free parking, a {0}-hour front desk, and the city within reach.": [
-  "index.html"
- ],
- "Thirty serviced apartments and rooms on a quiet street in Azaiba. Full kitchens, free parking, a front desk that never closes, and the beach, the malls and the Grand Mosque all a short drive away.": [
-  "index.html"
- ],
  "Towards the sea": [
   "index.html"
  ],
@@ -968,9 +968,6 @@
  "Yes. Weekly and monthly rates are well below the nightly rate. Send your dates and the apartment type on WhatsApp and we'll quote the same day.": [
   "index.html"
  ],
- "apartments & rooms": [
-  "index.html"
- ],
  "beds": [
   "index.html"
  ],
@@ -981,6 +978,9 @@
   "index.html"
  ],
  "per night": [
+  "index.html"
+ ],
+ "rooms & apartments": [
   "index.html"
  ],
  "since": [
