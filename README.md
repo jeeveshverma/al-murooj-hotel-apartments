@@ -91,7 +91,7 @@ Palette: deep teal `#0F4C5C` (the bedding and the sea), sand `#F6F0E6`, copper `
 | Breakfast price | OMR 2 per person | Trip.com child/breakfast notes |
 | Extra bed | OMR 5 per night, no cots | Trip.com. topomanhotels says no extra beds at all |
 | Room sizes | 60 m² and 80 m² for the apartments; none shown for the standard rooms | Expedia estimates |
-| Room count | 30 apartments, 74 beds | From the licence. Listings say 30, 32, 38 or 48 |
+| Room count | 54 rooms | The owner's figure (WhatsApp, 8 Oct 2026). The licence says 30 apartments and 74 beds, so 54 is probably the number of bedrooms across the apartments; listings say 30, 32, 38 or 48 |
 | Kitchen contents | Gas hob, microwave, fridge, kettle; "tell us if you plan to cook" | Some reviews complain of missing utensils, hence the wording |
 | Restaurants downstairs | "Turkish grill and rotisserie chicken house", unnamed | Signs on the facade read فروج أبو العبد, قصر المشاوي and أناتوليا. Confirm which are open and whether the hotel serves breakfast itself |
 | Rooftop pool | Not mentioned on the site | Google reviewers and a topoman FAQ mention a pool; the only pool photos online look like a different hotel. Add it only if it exists |
